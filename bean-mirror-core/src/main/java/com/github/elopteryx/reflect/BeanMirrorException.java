@@ -7,6 +7,11 @@ package com.github.elopteryx.reflect;
 public class BeanMirrorException extends RuntimeException {
 
     /**
+	 * 
+	 */
+	private static final long serialVersionUID = -4680935199297647906L;
+
+	/**
      * Default constructor.
      * @param cause The wrapped error
      */
